@@ -3,3 +3,4 @@ def hello():
 
 hello()
 print("Hello Wanseo!")
+print("Hello Wanseo!")
